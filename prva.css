@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rosybrown;
+    text-align: center;
+}
+.podela{
+    color: red;
+}
+h2{
+ color: dimgrey;
+ text-decoration: underline;
+}
+.okvir{
+    border: 1px solid red;
+    margin: 20px;
+}
+.aut{
+    float: right;
+    line-height: 20px;
+}

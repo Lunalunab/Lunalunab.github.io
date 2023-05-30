@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 200px;
+    width: 350px;
+}
+h1{
+    color: rosybrown;
+}
+h3{
+    color: rosybrown;
+    text-decoration: underline;
+}
+table, tr, td{
+    border: 2px solid rosybrown;
+    border-spacing: 5px;
+    text-align: center;
+}
+.slika{
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+.div{
+    padding: 10px;
+    text-align: center;
+}

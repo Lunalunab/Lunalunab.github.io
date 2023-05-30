@@ -1,0 +1,19 @@
+body{
+    background-color: rosybrown;
+}
+h1{
+    background-color: antiquewhite;
+    color: rosybrown;
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+h3{
+    color: ghostwhite;
+    text-decoration: underline;
+}
+.div{
+    padding: 10px;
+    text-align: center;
+}

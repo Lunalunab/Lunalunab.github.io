@@ -1,0 +1,31 @@
+body{
+    background-color: rosybrown;
+}
+h1{
+    background-color: antiquewhite;
+    color: rosybrown;
+    text-align: center;
+}
+.beo{
+    height: 100px;
+    float: right;
+    padding: 10px;
+}
+h3{
+    color: white;
+    text-decoration: underline;
+}
+.sud{
+    height: 100px;
+    float: left;
+    padding: 10px;
+}
+.mrez{
+    height: 100px;
+    float: right;
+    padding: 10px;
+}
+.div{
+    padding: 10px;
+    text-align: center;
+}

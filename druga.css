@@ -1,0 +1,21 @@
+body{
+    background-color: rosybrown;
+}
+h1{
+    background-color: antiquewhite;
+    color: rosybrown;
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
+table{
+    border: 2px solid lightslategrey;
+    border-spacing: 2px;
+    background-color: plum;
+}
+.div{
+    padding: 10px;
+    text-align: center;
+}
